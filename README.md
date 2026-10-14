@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajay Jangam!
-
+## 🎯 Semiconductors    
 💼 Physical Design Engineer  
-🎓 Electronics & Communication Engineer
+🎓 Electronics and Communication Engineer
 
 💡 Passionate about RTL-to-GDSII flow, STA, ECO, and physical design sign-off  
 🚀 Hands-on experience with Cadence (Genus, Innovus, Tempus) & Synopsys (DC, ICC2, PrimeTime, StarRC)  
@@ -40,5 +40,5 @@ FPGA Implementation | Verilog | Xilinx Vivado
 
 ---
 
-## 🎯 Open to Opportunities
+## 🤵 Open to Opportunities
 Actively looking for Physical Design / VLSI Backend Engineer roles  
